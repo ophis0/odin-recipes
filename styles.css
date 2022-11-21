@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.main-img {
+  display: flex;
+  justify-content: center;
+}
+
+.button-div, .text1 {
+  text-align: center;
+
+}
+
+.buttons {
+  font-size: 40px;
+  background-color: #9bf6aa;
+  font-family: monospace;
+}
+
+.text1 ul, .text1 ol {
+  display: inline-block;
+  text-align: left;
+}
+
+.header1 {
+  color: red;
+  font-size: 36px;
+}
